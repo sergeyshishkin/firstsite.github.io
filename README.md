@@ -3,8 +3,6 @@
 Here is a training journal of my educational process in programming and computer science in general.
 I'll try to write about every step that occurred.
 
-Link https://sergeyshishkin.github.io/training-journal.github.io/
-
 ### 01. Initial post
 
 October 9, 2021.
